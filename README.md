@@ -21,9 +21,9 @@
 
 ### How to Redeem
 
-- **Visit**: [JobPoint Registration](https://jobpoint.gainhq.com/register)
+- **Visit**: [VsCodeHelp](https://www.vscodehelp.com)
 - **Sign Up**: Enter your details.
-- **Discount Code**: Use `NEW100` for full access.
+- **Discount Code**: Use **NEW100** for full access.
 
 ---
 
